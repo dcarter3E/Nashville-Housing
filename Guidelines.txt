@@ -1,0 +1,7 @@
+In this project I am cleaning up data in SQL by 
+--> Standardizing the date format
+--> Populating property address data
+--> Breaking out address into individual columns (address, city, state)
+--> Changing "Y" and "N" to "Yes" and "No" in Sold as Vacant field.
+--> Removing duplicates
+--> Deleting unused columns.
